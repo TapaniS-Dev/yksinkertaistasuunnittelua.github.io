@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Minun Testailu Sivustoloi</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Minun Testailu Sivustoloi</description>
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <lastBuildDate>Thu, 29 Jan 2026 18:49:23 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensimmäinen Postailu</title>
+      <link>http://localhost:1313/posts/ensimm%C3%A4inen-postailu/</link>
+      <pubDate>Thu, 29 Jan 2026 18:49:23 +0200</pubDate>
+      <guid>http://localhost:1313/posts/ensimm%C3%A4inen-postailu/</guid>
+      <description>&lt;h2 id=&#34;johdanto&#34;&gt;Johdanto&lt;/h2&gt;&#xA;&lt;p&gt;Tämä on &lt;strong&gt;lihavoitu&lt;/strong&gt; teksti&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
